@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://c8u2eylqfgs61"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_8at58"]
+
+[resource]
+script = ExtResource("1_8at58")
+reagent_name = "Горючий дёготь"
+is_earth_type = true
+base_mana_cost = 2
+zatravka_name = "Связывание"
+zatravka_attack_tag = "Связывание Атаки"
+zatravka_defense_tag = "Связывание Защиты"
+navarot_name = "Вязкость"
+navarot_attack_tag = "Вязкость Атаки"
+navarot_defense_tag = "Вязкость Защиты"
+prihod_name = "Удушье"
+prihod_attack_tag = "Удушье Атаки"
+prihod_defense_tag = "Удушье Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

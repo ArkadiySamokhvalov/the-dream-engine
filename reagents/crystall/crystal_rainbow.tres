@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://dwhr10dbnpmhc"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_oo4r6"]
+
+[resource]
+script = ExtResource("1_oo4r6")
+reagent_name = "Кристаллическая радуга"
+base_mana_cost = 3
+zatravka_name = "Призма"
+zatravka_attack_tag = "Призма Атаки"
+zatravka_defense_tag = "Призма Защиты"
+navarot_name = "Спектр"
+navarot_attack_tag = "Спектр Атаки"
+navarot_defense_tag = "Спектр Защиты"
+prihod_name = "Откат"
+prihod_attack_tag = "Откат Атаки"
+prihod_defense_tag = "Откат Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

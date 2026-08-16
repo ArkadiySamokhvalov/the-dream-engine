@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://bc5dyryoij584"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_3jfw3"]
+
+[resource]
+script = ExtResource("1_3jfw3")
+reagent_name = "Слёзы дриады"
+zatravka_name = "Вегетация"
+zatravka_attack_tag = "Вегетация Атаки"
+zatravka_defense_tag = "Вегетация Защиты"
+navarot_name = "Одеревенение"
+navarot_attack_tag = "Одеревенение Атаки"
+navarot_defense_tag = "Одеревенение Защиты"
+prihod_name = "Цветение"
+prihod_attack_tag = "Цветение Атаки"
+prihod_defense_tag = "Цветение Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

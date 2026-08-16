@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://85al3g2x7jkl"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_aiw3l"]
+
+[resource]
+script = ExtResource("1_aiw3l")
+reagent_name = "Иллюзорная пыльца"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

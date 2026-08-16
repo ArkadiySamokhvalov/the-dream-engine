@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://b0mnp66f07ngy"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_r2jsi"]
+
+[resource]
+script = ExtResource("1_r2jsi")
+reagent_name = "Застывший туман"
+base_mana_cost = 2
+zatravka_name = "Эфир"
+zatravka_attack_tag = "Эфир Атаки"
+zatravka_defense_tag = "Эфир Защиты"
+navarot_name = "Изоляция"
+navarot_attack_tag = "Изоляция Атаки"
+navarot_defense_tag = "Изоляция Защиты"
+prihod_name = "Осадок"
+prihod_attack_tag = "Осадок Атаки"
+prihod_defense_tag = "Осадок Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

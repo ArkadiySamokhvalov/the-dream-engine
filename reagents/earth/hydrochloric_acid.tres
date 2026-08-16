@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://dla08yhdevpj3"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_nf062"]
+
+[resource]
+script = ExtResource("1_nf062")
+reagent_name = "Соляная кислота"
+is_earth_type = true
+base_mana_cost = 4
+zatravka_name = "Разъедание"
+zatravka_attack_tag = "Разъедание Атаки"
+zatravka_defense_tag = "Разъедание Защиты"
+navarot_name = "Плавление"
+navarot_attack_tag = "Плавление Атаки"
+navarot_defense_tag = "Плавление Защиты"
+prihod_name = "Токсикоз"
+prihod_attack_tag = "Токсикоз Атаки"
+prihod_defense_tag = "Токсикоз Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://dvdf66o18d51q"]
+
+[ext_resource type="Script" uid="uid://dl5uy0hw6acip" path="res://advanced_tooltip.gd" id="1_rm0b3"]
+
+[node name="AdvancedTooltip" type="PanelContainer" unique_id=2045652679]
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_rm0b3")
+
+[node name="ContentStack" type="VBoxContainer" parent="." unique_id=1811468205]
+layout_mode = 2
+
+[node name="VectorIcon" type="Label" parent="ContentStack" unique_id=483931627]
+layout_mode = 2
+text = "X"
+horizontal_alignment = 1
+
+[node name="ZatravkaLabel" type="Label" parent="ContentStack" unique_id=1369346534]
+layout_mode = 2
+text = "Детонация\\nнаносит всем врагам 10 ед урона."
+
+[node name="HSeparator2" type="HSeparator" parent="ContentStack" unique_id=895770537]
+layout_mode = 2
+
+[node name="NavarotLabel" type="Label" parent="ContentStack" unique_id=1936336141]
+layout_mode = 2
+text = "Горение\\nна 3 хода создает огненную область."
+
+[node name="HSeparator" type="HSeparator" parent="ContentStack" unique_id=288395630]
+layout_mode = 2
+
+[node name="PrihodLabel" type="Label" parent="ContentStack" unique_id=1592736154]
+layout_mode = 2
+text = "Ошеломление\\nВраг пропускает свой следующий ход."

@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://bgjwoq080uq4f"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_evo0f"]
+
+[resource]
+script = ExtResource("1_evo0f")
+reagent_name = "Едкая слизь"
+is_earth_type = true
+base_mana_cost = 3
+zatravka_name = "Свечение"
+zatravka_attack_tag = "Свечение Атаки"
+zatravka_defense_tag = "Свечение Защиты"
+navarot_name = "Самовозгорание"
+navarot_attack_tag = "Самовозгорание Атаки"
+navarot_defense_tag = "Самовозгорание Защиты"
+prihod_name = "Ослепление"
+prihod_attack_tag = "Ослепление Атаки"
+prihod_defense_tag = "Ослепление Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

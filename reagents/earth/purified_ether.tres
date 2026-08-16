@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://d2c7g6aum1uvq"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_16g81"]
+
+[resource]
+script = ExtResource("1_16g81")
+reagent_name = "Очищенный Эфир"
+is_earth_type = true
+base_mana_cost = 3
+zatravka_name = "Наркоз"
+zatravka_attack_tag = "Наркоз Атаки"
+zatravka_defense_tag = "Наркоз Защиты"
+navarot_name = "Испарение"
+navarot_attack_tag = "Испарение Атаки"
+navarot_defense_tag = "Испарение Защиты"
+prihod_name = "Кома"
+prihod_attack_tag = "Кома Атаки"
+prihod_defense_tag = "Кома Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

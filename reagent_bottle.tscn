@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://bhru0xwu7h05e"]
+
+[ext_resource type="Script" uid="uid://g7gdwdoeuvm3" path="res://reagent_bottle.gd" id="1_u7fnt"]
+[ext_resource type="Resource" uid="uid://bgjwoq080uq4f" path="res://reagents/earth/phosphorus_concentrate.tres" id="2_wcmwx"]
+
+[node name="ReagentBottle" type="Panel" unique_id=1709759370]
+custom_minimum_size = Vector2(80, 120)
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_u7fnt")
+reagent_data = ExtResource("2_wcmwx")
+
+[node name="Label" type="Label" parent="." unique_id=2129227297]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Название реагента"
+horizontal_alignment = 1
+autowrap_mode = 3

@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://kwqgyl4l5ela"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_kcwud"]
+
+[resource]
+script = ExtResource("1_kcwud")
+reagent_name = "Порох"
+is_earth_type = true
+base_mana_cost = 3
+zatravka_name = "Детонация"
+zatravka_attack_tag = "Детонация Атаки"
+zatravka_defense_tag = "Детонация Защиты"
+navarot_name = "Горение"
+navarot_attack_tag = "Горение Атаки"
+navarot_defense_tag = "Горение Защиты"
+prihod_name = "Ошеломление"
+prihod_attack_tag = "Ошеломление Атаки"
+prihod_defense_tag = "Ошеломление Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"

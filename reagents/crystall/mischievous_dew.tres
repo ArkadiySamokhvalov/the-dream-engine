@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="ReagentData" format=3 uid="uid://uwkuc5icqukl"]
+
+[ext_resource type="Script" uid="uid://bwb75ju5rl5qs" path="res://ReagentData.gd" id="1_1oes6"]
+
+[resource]
+script = ExtResource("1_1oes6")
+reagent_name = "Озорная роса"
+zatravka_name = "Чистота"
+zatravka_attack_tag = "Чистота Атаки"
+zatravka_defense_tag = "Чистота Защиты"
+navarot_name = "Темп"
+navarot_attack_tag = "Темп Атаки"
+navarot_defense_tag = "Темп Защиты"
+prihod_name = "Свежесть"
+prihod_attack_tag = "Свежесть Атаки"
+prihod_defense_tag = "Свежесть Защиты"
+metadata/_custom_type_script = "uid://bwb75ju5rl5qs"
